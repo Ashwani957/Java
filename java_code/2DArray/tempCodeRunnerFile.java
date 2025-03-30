@@ -1,0 +1,5 @@
+ 
+    // if(startcoloum==endcoloum)
+    // {
+    //         break ; 
+    // }
