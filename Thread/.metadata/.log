@@ -1,0 +1,62 @@
+!SESSION 2025-03-28 13:53:54.710 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product C:\Users\DELL\OneDrive\Desktop\Thread
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product C:\Users\DELL\OneDrive\Desktop\Thread -data C:\Users\DELL\OneDrive\Desktop\Thread
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-28 13:54:01.702
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-28 13:54:04.445
+!MESSAGE Logback config file: C:\Users\DELL\OneDrive\Desktop\Thread\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-03-28 13:54:25.459
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-03-28 13:54:34.946
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob RUNNING
+	 at java.base/sun.security.util.math.intpoly.IntegerPolynomial$MutableElement.setDifference(IntegerPolynomial.java:812)
+	 at java.base/sun.security.util.math.intpoly.IntegerPolynomial$MutableElement.setDifference(IntegerPolynomial.java:674)
+	 at java.base/sun.security.ec.ECOperations.setSum(ECOperations.java:397)
+	 at java.base/sun.security.ec.ECOperations$DefaultMultiplier.pointMultiply(ECOperations.java:531)
+	 at java.base/sun.security.ec.ECOperations$Secp256R1GeneratorMontgomeryMultiplier.<init>(ECOperations.java:642)
+	 at java.base/sun.security.ec.ECOperations$Secp256R1GeneratorMontgomeryMultiplier.<init>(ECOperations.java:565)
+	 at java.base/sun.security.ec.ECOperations$Secp256R1GeneratorMontgomeryMultiplier.<clinit>(ECOperations.java:556)
+	 at java.base/sun.security.ec.ECOperations.multiply(ECOperations.java:206)
+	 at java.base/sun.security.ec.ECOperations.multiply(ECOperations.java:226)
+	 at java.base/sun.security.ec.ECPrivateKeyImpl.calculatePublicKey(ECPrivateKeyImpl.java:213)
+	 at java.base/sun.security.ec.ECKeyPairGenerator.generateKeyPairImpl(ECKeyPairGenerator.java:196)
+	 at java.base/sun.security.ec.ECKeyPairGenerator.generateKeyPair(ECKeyPairGenerator.java:146)
+	 at java.base/java.security.KeyPairGenerator$Delegate.generateKeyPair(KeyPairGenerator.java:726)
+	 at java.base/sun.security.ssl.ECDHKeyExchange$ECDHEPossession.<init>(ECDHKeyExchange.java:118)
+	 at java.base/sun.security.ssl.NamedGroup$ECDHEScheme.createPossession(NamedGroup.java:706)
+	 at java.base/sun.security.ssl.NamedGroup$NamedGroupSpec.createPossession(NamedGroup.java:642)
+	 at java.base/sun.security.ssl.NamedGroup.createPossession(NamedGroup.java:550)
+	 at java.base/sun.security.ssl.SSLKeyExchange$T13KeyAgreement.createPossession(SSLKeyExchange.java:573)
+	 at java.base/sun.security.ssl.SSLKeyExchange.createPossessions(SSLKeyExchange.java:92)
+	 at java.base/sun.security.ssl.KeyShareExtension$CHKeyShareProducer.getShare(KeyShareExtension.java:295)
+	 at java.base/sun.security.ssl.KeyShareExtension$CHKeyShareProducer.produce(KeyShareExtension.java:257)
+	 at java.base/sun.security.ssl.SSLExtension.produce(SSLExtension.java:599)
+	 at java.base/sun.security.ssl.SSLExtensions.produce(SSLExtensions.java:265)
+	 at java.base/sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(ClientHello.java:635)
+	 at java.base/sun.security.ssl.SSLHandshake.kickstart(SSLHandshake.java:526)
+	 at java.base/sun.security.ssl.ClientHandshakeContext.kickstart(ClientHandshakeContext.java:112)
+	 at java.base/sun.security.ssl.TransportContext.kickstart(TransportContext.java:263)
+	 at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:448)
+	 at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	 at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586)
+	 at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+	 at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691)
+	 at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615)
+	 at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+	 at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:164)
+	 at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:151)
+	 at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.create(PublishedGradleVersions.java:111)
+	 at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:73)
+	 at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
