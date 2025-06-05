@@ -28,8 +28,8 @@ public class StartCode {
 //        it will add an element at particualr index
        name.add(1,"sahil");
 //       .get(index)--> this method are used to get the element at particular index
-        System.out.println(name.get(0));
-
+        System.out.println(name.get(0))
+;
 //        set(int index , element) --> it is used to update the value at particular index
         name.set(0,"pawan");
         System.out.println("The arraylist will be :"+name);

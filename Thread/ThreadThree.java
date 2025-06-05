@@ -19,9 +19,11 @@ public class ThreadThree {
         
         System.out.println("Thread start Here");
         
-        // name of the thread 
+        // name of the main  thread 
         
         Thread t= Thread.currentThread();
+        String name=t.getName();
+        System.out.println("Thread name:"+name);
 
 
         // Here we make the instance of my thread 

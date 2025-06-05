@@ -1,12 +1,8 @@
 import java.util.*; 
 
 // when we to created a custome unchecked exception then we need to inherit or extend the RuntimeException 
-
-
 // Here we create our own exception :
-
 // Unchecked Exception 
-
 class UnderAgeException extends RuntimeException{
 
     public UnderAgeException() {

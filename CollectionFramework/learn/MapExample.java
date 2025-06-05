@@ -36,23 +36,20 @@ public class MapExample {
 //        remove(k key , value)
 //        clear() it will clear all the list
         System.out.println(course.remove("Core Java"));
-
         System.out.println(course);
-
-
        System.out.println("Iterator over the map ") ;
 
 //       Iterator over the map using the keySet()
 //        keySet() will return all the keys
-       for(String key:course.keySet())
+for(String key:course.keySet())
        {
-
+       
            System.out.println(key +"->"+ course.get(key));
        }
 
 //       Another method
 
-        System.out.println("Iterator Using entryset()");
+        System.out.println("Iterator Using entryset()") ;
 
 
 //       entry set return the key value pair
@@ -71,3 +68,23 @@ public class MapExample {
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

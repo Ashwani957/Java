@@ -6,7 +6,6 @@ class Calculation {
             int c = a+b ; 
             System.out.println("The Sum of two number is " + c );
 
-
      }
       public void sum ( int a ,int b , int c )
       {
@@ -46,6 +45,7 @@ class Calculation {
 public class PolymorphismOne {
             public static void main (String ...args)
             {
+              // cal is called a object reference 
                 Calculation cal=new Calculation(); 
                 cal.sum(12, 12);
                 cal.sum(12,12,12);

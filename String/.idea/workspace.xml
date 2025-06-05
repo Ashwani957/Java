@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74208d0f-1410-4c80-96e5-a563070275bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CollectionFramework/learn/LinkedListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionFramework/learn/LinkedListCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFramework/learn/LinkedMapCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionFramework/learn/LinkedMapCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFramework/learn/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionFramework/learn/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/CustomExcepitonRuntime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/CustomExcepitonRuntime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/ExceptionHandlingOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/AbstractionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/AbstractionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/InterfaceOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/InterfaceOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/PolymorphismExceptionahndling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/PolymorphismExceptionahndling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/PolymorphismOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/PolymorphismOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/PolymorphismOverridingFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/PolymorphismOverridingFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/PolymorphismThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/PolymorphismThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/PolymorphismTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/PolymorphismTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/StaticOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/StaticOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/StaticOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/StaticOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/StaticTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/StaticTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Supertwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Supertwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/javascrpit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamApiJava/StreamOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamApiJava/StreamOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/DemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/ThreadThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/ThreadThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/ThreadThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/ThreadThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/Threadone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/Threadone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/Threadtwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/Threadtwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/Threadtwoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/Threadtwoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/consumerProducer/Compay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/consumerProducer/Compay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/consumerProducer/Compay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/consumerProducer/Compay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/consumerProducer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/consumerProducer/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/consumerProducer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/consumerProducer/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2vxcvML7Njt71twsb5gIaZQNZuO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74208d0f-1410-4c80-96e5-a563070275bd" name="Changes" comment="" />
+      <created>1745090396263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745090396263</updated>
+    </task>
+    <servers />
+  </component>
+</project>

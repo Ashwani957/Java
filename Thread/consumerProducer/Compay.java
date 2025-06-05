@@ -1,4 +1,5 @@
 // package consumerProducer;
+
 public class Compay {
     int n ; 
     boolean f =false ; 

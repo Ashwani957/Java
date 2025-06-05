@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class approach {
-
     public static void main(String args[])
     {
 

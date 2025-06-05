@@ -24,9 +24,7 @@ if (age<18 )
     // it will only throw the error 
     // throw are used when the user try to throw its own exception 
     throw new YoungerAgeException("You are not eligible for voting");
-
 }
-
 else {
     System.out.println("You can vote succesfully");
 }

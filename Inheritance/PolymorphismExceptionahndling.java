@@ -6,11 +6,11 @@ class Test {
     }
 }
 
-class Homework extends Test {
+class Homework extends Test  {
     @Override
     // if we try to use checked exception like exception then i face an error 
     // void run() throws ArithmeticException { //unchecked exception 
-    void run() throws Exception{ 
+    void run(){ 
         // checked exception 
 
         System.out.println("Homework is running");

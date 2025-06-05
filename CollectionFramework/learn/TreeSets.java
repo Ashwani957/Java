@@ -1,6 +1,5 @@
 package learn;
 
-import java.util.Set;
 import java.util.TreeSet;
 
 public class TreeSets {
@@ -24,7 +23,6 @@ public class TreeSets {
         ts.add("ashnwia");
         ts.add(12.34);
         System.out.println(ts);
-        Set
-
+       
     }
 }

@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class StreamOperation2 {
     public static void main(String[] args) {
@@ -11,12 +10,8 @@ public class StreamOperation2 {
 
 //        Long dbl =Stream.iterate(0,n->n+1).limit(100).count();
 //        System.out.println(dbl);
-
         List<Integer> list= Arrays.asList(1,2,3,4,5);
         list.parallelStream();
-
-
-
     }
 }
 

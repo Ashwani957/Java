@@ -4,9 +4,9 @@
 
 //  class Test {
 //      static int a = 12 ; // we can delcare static varibel only with in the class and outside the body of the method 
-//      void m1(){
-// //     //  static int b  = 122;// show an error because we cannot declare the static varibale inside the method  
-//      }
+//     //  void m1(){               
+//     //  static int b  = 122; // show an error because we cannot declare the static varibale inside the method 
+//     //  }
 //  }
 
 
@@ -23,20 +23,15 @@
 
 
 
+
+
 // example2 
-
-
-
-
 // class Test {
 //     static int a = 12 ; // we can delcare static varibel only with in the class and outside the body of the method 
 //     void m1(){
-//     //  static int b  = 122;// show an error because we cannot declare the static varibale inside the method  
+//     //  static int b  = 122;// show an error because we cannot declare the static varibale inside the method  because static variable is created only once when the jvm load the class and  remain in entire lifetime of the programe
 //     }
 // }
-
-
-
 // public class StaticOne {
     
 //     public static void main (String ...args)
@@ -106,19 +101,19 @@
 
 
 
-class Employees {
-   static void display ()
-    {
-        System.out.println("Display is running");
-    }
-}
+// class Employees {
+//    static void display ()
+//     {
+//         System.out.println("Display is running");
+//     }
+// }
 
 
-class StaticOne {
+// class StaticOne {
 
-    public static void main(String ...args)
-    {
-           display();  // we can call the static method with in the same class without use of the parent class name 
+//     public static void main(String ...args)
+//     {
+//            display();  // we can call the static method with in the same class without use of the parent class name 
 
-    }
-}
+//     }
+// }

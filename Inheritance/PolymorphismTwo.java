@@ -1,7 +1,4 @@
 public class PolymorphismTwo {
-    
-
-
     public static void main (String[] args)
     {
 System.out.println("main class ");
@@ -15,6 +12,5 @@ PolymorphismTwo.main(12);
         System.out.println("overloading succesfully");
 
     }
-
 
 }
